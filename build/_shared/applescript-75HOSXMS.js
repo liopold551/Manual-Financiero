@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-MKSO5CZN.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/manual-financiero/build/_shared/chunk-MKSO5CZN.js";import"/manual-financiero/build/_shared/chunk-OZE3FFNP.js";export default a();
